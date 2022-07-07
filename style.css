@@ -2,10 +2,10 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
-
+/* Section-1 Top Banner =========================================*/
 .top-banner {
     height: 675px;
-    background-image: url("images/donation2.jpg");
+    background-image: url("images/donation9.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-bottom: 100px;
@@ -43,7 +43,7 @@ body {
     padding: 10px 20px;
     border-radius: 5px;
 }
-
+/* Section-2 Donate Today =========================================== */
 .h2-center {
     text-align: center;
     font-size: 40px;
@@ -90,114 +90,13 @@ body {
 .text-center {
     text-align: center;
 }
-
-.food {
-    background-color: aliceblue;
-    width: 20%;
-    height: 150px;
-    padding: 20px;
-}
-
-body {
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
-}
-
-.top-banner {
-    height: 675px;
-    background-image: url("images/donation2.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    margin-bottom: 100px;
-}
-
-.banner-content {
-    text-align: center;
-    padding: 250px 0;
-    color: white;
-}
-
-.banner-content h1 {
-    font-size: 50px;
-    line-height: 10px;
-    text-shadow: 3px 3px 3px black;
-}
-
-.banner-content p {
-    text-shadow: 2px 2px 2px black;
-}
-
-.text-center-paragraph {
-    font-size: 20px;
-    width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-.anchor-button {
-    text-decoration: none;
-    background-image: linear-gradient(tomato, orange);
-    color: white;
-    font-weight: 700;
-    padding: 10px 20px;
-    border-radius: 5px;
-}
-
-.h2-center {
-    text-align: center;
-    font-size: 40px;
-}
-
-.display-flex {
-    display: flex;
-    justify-content: center;
-}
-
-.bottom-100px {
-    margin-bottom: 100px;
-}
-
-.text-center-tk {
-    padding: 20px 10px;
-    margin-left: 20px;
-    width: 100px;
-    text-align: center;
-    border-radius: 5px;
-}
-
-.donate-taka {
-    background-color: aliceblue;
-}
-
-.donate-taka-color {
-    background-color: rgb(247, 239, 224);
-    border: 1px solid orange;
-    color: orange;
-}
-
-.input-donate {
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-    padding: 10px 20px;
-    border-top: 0;
-    border-left: 0;
-    border-right: 0;
-    margin-bottom: 20px;
-}
-
-.text-center {
-    text-align: center;
-}
-
+/* Section-3 Our Donate Plan ======================================= */
 .donate-plan {
     width: 20%;
     height: auto;
     padding: 20px;
     margin: 10px 10px;
     border-radius: 5px;
-
 }
 
 .food {
@@ -212,6 +111,26 @@ body {
     background-color: rgb(203, 229, 252);
 }
 
+/* Section-4 Bonus Part-3 ========================================= */
+.background-1 {
+    height: 1000px;
+    background-image: linear-gradient(white, lightgray, gray, orchid, white);
+}
+
+.background-2 {
+    width: 70%;
+    height: 800px;
+    transform: translate(200px, 50px);
+    background-image: url("images/donation0.jpg");
+    background-repeat: no-repeat;
+}
+
+.small-donate {
+    text-align: center;
+    font-size: 50px;
+}
+
+/* Section-5 Get Our Update ======================================= */
 .input-subscribe-div {
     background-color: rgb(255, 246, 234);
     width: 60%;
@@ -221,6 +140,7 @@ body {
     padding: 100px;
 }
 
+/* Footer ========================================================= */
 footer {
     background-color: black;
     text-align: center;
